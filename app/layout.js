@@ -9,11 +9,11 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata = {
-  title: "Orthocure Orthopaedic Clinic | Dr. Tanveer Sheikh (M.B.B.S., M.S. Orthopedics) Sendhwa",
+  title: "Orthocare Orthopaedic Clinic | Dr. Tanveer Sheikh (M.B.B.S., M.S. Orthopedics) Sendhwa",
   description:
-    "Orthocure is an orthopaedic clinic in Sendhwa, Madhya Pradesh, led by Dr. Tanveer Sheikh (M.B.B.S., M.S. Orthopedics). Dedicated care for bone, joint, knee, spine, fractures, and sports injuries.",
+    "Orthocare is an orthopaedic clinic in Sendhwa, Madhya Pradesh, led by Dr. Tanveer Sheikh (M.B.B.S., M.S. Orthopedics). Dedicated care for bone, joint, knee, spine, fractures, and sports injuries.",
   keywords: [
-    "Orthocure",
+    "Orthocare",
     "Dr Tanveer Sheikh",
     "Orthopedic Doctor Sendhwa",
     "Orthopaedic Clinic Sendhwa MP",
@@ -22,19 +22,19 @@ export const metadata = {
     "Fracture Doctor New Bus Stand Sendhwa",
     "M.S. Orthopedics Sendhwa",
   ],
-  authors: [{ name: "Dr. Tanveer Sheikh", url: "https://orthocure.in" }],
-  creator: "Orthocure Orthopaedic Clinic",
-  publisher: "Orthocure",
+  authors: [{ name: "Dr. Tanveer Sheikh", url: "https://orthocare.in" }],
+  creator: "Orthocare Orthopaedic Clinic",
+  publisher: "Orthocare",
   formatDetection: {
     telephone: true,
     address: true,
   },
   openGraph: {
-    title: "Orthocure Orthopaedic Clinic | Dr. Tanveer Sheikh, Sendhwa",
+    title: "Orthocare Orthopaedic Clinic | Dr. Tanveer Sheikh, Sendhwa",
     description:
       "Expert bone, joint, knee, spine, and fracture care in Sendhwa, Madhya Pradesh. Led by Dr. Tanveer Sheikh (M.B.B.S., M.S. Orthopedics).",
-    url: "https://orthocure.in",
-    siteName: "Orthocure Orthopaedic Clinic",
+    url: "https://orthocare.in",
+    siteName: "Orthocare Orthopaedic Clinic",
     locale: "en_IN",
     type: "website",
   },

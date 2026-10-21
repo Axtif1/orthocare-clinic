@@ -19,7 +19,7 @@ function getFeatureIcon(iconName) {
   }
 }
 
-export default function WhyOrthocure() {
+export default function WhyOrthocare() {
   const { whyUs } = CLINIC_INFO;
 
   return (
@@ -33,7 +33,7 @@ export default function WhyOrthocure() {
             <span>Verified Clinic Highlights</span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-[#0b2545] tracking-tight">
-            Why Patients Choose Orthocure
+            Why Patients Choose Orthocare
           </h2>
           <p className="mt-3 text-base sm:text-lg text-slate-600">
             Committed to medical integrity, accessible care, and specialized orthopaedic consultations in Sendhwa.
@@ -72,7 +72,7 @@ export default function WhyOrthocure() {
               <div className="text-xs sm:text-sm text-teal-950">
                 <p className="font-semibold">Pure Medical Standards</p>
                 <p className="text-teal-900/90 mt-0.5">
-                  Orthocure strictly adheres to ethical medical practices. Every patient receives attentive examination, clear explanation of X-rays or findings, and realistic recovery steps.
+                  Orthocare strictly adheres to ethical medical practices. Every patient receives attentive examination, clear explanation of X-rays or findings, and realistic recovery steps.
                 </p>
               </div>
             </div>
@@ -89,7 +89,7 @@ export default function WhyOrthocure() {
             <div className="relative rounded-2xl overflow-hidden shadow-xl border-4 border-white bg-slate-100 aspect-[4/3]">
               <Image
                 src="/images/clinic-facility.jpg"
-                alt="Orthocure Clinic facility and welcoming consultation environment in Sendhwa"
+                alt="Orthocare Clinic facility and welcoming consultation environment in Sendhwa"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 500px"

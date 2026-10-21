@@ -25,7 +25,7 @@ export default function Hero() {
             {/* Top Badge */}
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-teal-50 border border-teal-200/80 text-teal-800 text-xs sm:text-sm font-medium mb-6 shadow-xs">
               <span className="flex h-2 w-2 rounded-full bg-teal-500 animate-pulse" />
-              <span>Orthocure Orthopaedic Clinic &bull; Sendhwa</span>
+              <span>Orthocare Orthopaedic Clinic &bull; Sendhwa</span>
             </div>
 
             {/* Primary Headline */}
@@ -37,7 +37,7 @@ export default function Hero() {
             <p className="text-base sm:text-lg text-slate-600 leading-relaxed mb-6 max-w-2xl font-normal">
               Consult with <strong className="text-slate-900 font-semibold">{CLINIC_INFO.doctor.name}</strong>,{" "}
               <span className="text-teal-700 font-medium">({CLINIC_INFO.doctor.qualifications})</span>. 
-              Orthocure offers comprehensive orthopaedic evaluations for joint aches, back discomfort, fracture recovery, and movement health.
+              Orthocare offers comprehensive orthopaedic evaluations for joint aches, back discomfort, fracture recovery, and movement health.
             </p>
 
             {/* Verified Quick Highlights */}
@@ -100,8 +100,8 @@ export default function Hero() {
               {/* Main Clinic/Consultation Image */}
               <div className="relative rounded-2xl overflow-hidden shadow-2xl border-4 border-white bg-slate-100 aspect-[16/10]">
                 <Image
-                  src="/images/hero-orthocure.jpg"
-                  alt="Dr. Tanveer Sheikh reviewing orthopaedic joint model at Orthocure clinic"
+                  src="/images/hero-orthocare.jpg"
+                  alt="Dr. Tanveer Sheikh reviewing orthopaedic joint model at Orthocare clinic"
                   fill
                   priority
                   className="object-cover object-center"
@@ -113,7 +113,7 @@ export default function Hero() {
                 <div className="absolute bottom-3 left-3 right-3 p-3 rounded-xl bg-white/95 backdrop-blur-md shadow-sm border border-white/50 text-xs">
                   <div className="flex items-center justify-between">
                     <div>
-                      <p className="font-bold text-[#0b2545]">Orthocure Clinic Consultation</p>
+                      <p className="font-bold text-[#0b2545]">Orthocare Clinic Consultation</p>
                       <p className="text-[11px] text-slate-600">Sendhwa, Madhya Pradesh</p>
                     </div>
                     <span className="px-2 py-0.5 rounded-md bg-teal-100 text-teal-800 font-medium text-[10px]">

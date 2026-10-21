@@ -2,7 +2,7 @@ import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import DoctorProfile from "@/components/DoctorProfile";
 import Treatments from "@/components/Treatments";
-import WhyOrthocure from "@/components/WhyOrthocure";
+import WhyOrthocare from "@/components/WhyOrthocare";
 import AppointmentForm from "@/components/AppointmentForm";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
@@ -24,8 +24,8 @@ export default function Home() {
         {/* Treatments & Clinical Services Section */}
         <Treatments />
 
-        {/* Why Orthocure Section (Verified Facts Only) */}
-        <WhyOrthocure />
+        {/* Why Orthocare Section (Verified Facts Only) */}
+        <WhyOrthocare />
 
         {/* Appointment Enquiry Form Section */}
         <AppointmentForm />

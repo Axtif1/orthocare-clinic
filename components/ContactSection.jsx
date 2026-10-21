@@ -28,7 +28,7 @@ export default function ContactSection() {
             <span>Clinic Location &amp; Hours</span>
           </div>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-[#0b2545] tracking-tight">
-            Visit Orthocure in Sendhwa
+            Visit Orthocare in Sendhwa
           </h2>
           <p className="mt-3 text-base sm:text-lg text-slate-600">
             Conveniently located at New Bus Stand Square with straightforward regional road access.
@@ -52,7 +52,7 @@ export default function ContactSection() {
                     Clinic Address
                   </h3>
                   <p className="text-xs font-semibold text-teal-700 mt-0.5">
-                    Orthocure &bull; {doctor.name} ({doctor.qualifications})
+                    Orthocare &bull; {doctor.name} ({doctor.qualifications})
                   </p>
                   <p className="text-sm text-slate-700 mt-2 leading-relaxed">
                     {contact.address.full}
@@ -171,7 +171,7 @@ export default function ContactSection() {
               {/* Responsive Google Maps Embed with fallback overlay */}
               <div className="relative w-full flex-1 min-h-[360px] bg-slate-200">
                 <iframe
-                  title="Orthocure Clinic Location Map - Sendhwa"
+                  title="Orthocare Clinic Location Map - Sendhwa"
                   src="https://maps.google.com/maps?q=New+Bus+Stand+Square,+Sendhwa,+Madhya+Pradesh+451666&t=&z=15&ie=UTF8&iwloc=&output=embed"
                   className="absolute inset-0 w-full h-full border-0"
                   loading="lazy"

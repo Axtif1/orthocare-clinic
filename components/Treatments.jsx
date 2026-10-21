@@ -137,7 +137,7 @@ export default function Treatments() {
                 Unsure Which Specialist Care You Need?
               </h3>
               <p className="text-sm text-slate-300 leading-relaxed mb-6">
-                Directly discuss your symptoms or schedule an evaluation with Dr. Tanveer Sheikh at Orthocure.
+                Directly discuss your symptoms or schedule an evaluation with Dr. Tanveer Sheikh at Orthocare.
               </p>
             </div>
 

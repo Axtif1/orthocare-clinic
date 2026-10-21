@@ -43,7 +43,7 @@ export default function Navbar() {
             <a
               href={CLINIC_INFO.contact.phoneTel}
               className="flex items-center gap-1.5 text-teal-300 hover:text-white font-medium transition-colors"
-              aria-label={`Call Orthocure at ${CLINIC_INFO.contact.phone}`}
+              aria-label={`Call Orthocare at ${CLINIC_INFO.contact.phone}`}
             >
               <Phone className="w-3.5 h-3.5" />
               <span>{CLINIC_INFO.contact.phoneDisplay}</span>
@@ -72,7 +72,7 @@ export default function Navbar() {
             </div>
             <div className="flex flex-col">
               <span className="text-xl sm:text-2xl font-extrabold tracking-tight text-[#0b2545]">
-                ORTHO<span className="text-teal-600">CURE</span>
+                ORTHO<span className="text-teal-600">CARE</span>
               </span>
               <span className="text-[10px] tracking-wider uppercase font-semibold text-slate-500">
                 Orthopaedic Clinic &bull; Sendhwa

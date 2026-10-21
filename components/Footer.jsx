@@ -20,7 +20,7 @@ export default function Footer() {
               </div>
               <div className="flex flex-col">
                 <span className="text-2xl font-extrabold tracking-tight text-white">
-                  ORTHO<span className="text-teal-400">CURE</span>
+                  ORTHO<span className="text-teal-400">CARE</span>
                 </span>
                 <span className="text-[10px] tracking-wider uppercase font-semibold text-teal-300">
                   Orthopaedic Clinic &bull; Sendhwa
@@ -110,7 +110,7 @@ export default function Footer() {
         {/* Bottom Copyright */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-3">
           <p>
-            &copy; {currentYear} Orthocure Orthopaedic Clinic. Dr. Tanveer Sheikh. All rights reserved.
+            &copy; {currentYear} Orthocare Orthopaedic Clinic. Dr. Tanveer Sheikh. All rights reserved.
           </p>
           <div className="flex items-center gap-2 text-slate-400">
             <span>Specialised Orthopaedic Care &bull; Sendhwa, M.P.</span>
